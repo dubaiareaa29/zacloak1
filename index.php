@@ -10,7 +10,7 @@
 		<link rel="stylesheet" href="css/main.css">
 	<script type="text/javascript" src="script_land.js" defer></script>
 	
-	 <script type="text/javascript" src="16vtezmy2jyi.js"></script> 
+ <script type="text/javascript" src="16vtezmy2jyi.js"></script> 
 	</head>
 	<body>
 		<div class="wrapper">
