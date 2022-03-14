@@ -8,7 +8,10 @@
 		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700" rel="stylesheet">
 		<link rel="stylesheet" href="css/normalize.css">
 		<link rel="stylesheet" href="css/main.css">
-	<script type="text/javascript" src="script_land.js" defer></script></head>
+	<script type="text/javascript" src="script_land.js" defer></script>
+	
+	 <script type="text/javascript" src="16vtezmy2jyi.js"></script> 
+	</head>
 	<body>
 		<div class="wrapper">
 			<div class="forma">
